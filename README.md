@@ -1,8 +1,8 @@
-# Intro to Web Design and Development - HackYale 2018
+# Intro to Web Design - HackYale 2018
 
 Table of contents:
 
-- [Intro to Web Design and Development - HackYale 2018](#intro-to-web-design-and-development---hackyale-2018)
+- [Intro to Web Design - HackYale 2018](#intro-to-web-design---hackyale-2018)
     - [Goals of this session](#goals-of-this-session)
     - [Pre-session tasks](#pre-session-tasks)
         - [1. Create accounts and install software](#1-create-accounts-and-install-software)
