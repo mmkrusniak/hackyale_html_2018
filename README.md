@@ -8,6 +8,7 @@ Table of contents:
         - [1. Create accounts and install software](#1-create-accounts-and-install-software)
         - [2. Fork the example code from this GitHub account to yours](#2-fork-the-example-code-from-this-github-account-to-yours)
         - [3. Download the example code to your computer](#3-download-the-example-code-to-your-computer)
+        - [4. View the slides if you like](#4-view-the-slides-if-you-like)
     - [Optional "reading"](#optional-reading)
     - [End of session: Ready to publish this project?](#end-of-session-ready-to-publish-this-project)
 
@@ -60,6 +61,10 @@ Alternatively, if you're feeling adventurous:
 2. Navigate to where you like using `cd`
 3. Type and enter: `git clone https://github.com/sarimabbas/hackyale_html_2018`
 4. Confirm the folder was downloaded using Finder/Explorer
+
+### 4. View the slides if you like
+
+https://docs.google.com/presentation/d/1O68-iWi1fzuoSWbmae0L9FwaBpUfmOpADVm92ev8xjo/edit?usp=sharing
 
 ## Optional "reading"
 
