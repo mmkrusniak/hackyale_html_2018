@@ -32,7 +32,7 @@ If you go through as many of these as possible, it will save us time in the sess
     * Atom (https://atom.io/)
 4. Download and install GitHub Desktop from https://desktop.github.com/
 
-Why are we doing all of this? I'll explain in class but:
+Why are we doing all of this? I'll explain in session but:
 1. GitHub is where our code is going to live
 2. Heroku is where we will publish our website
 3. A code-editor makes things look pretty. The ones we've listed also work nicely with GitHub
@@ -74,13 +74,13 @@ Confused about what we did/will do? What do terms like "fork" and "clone" mean? 
 
 2. With web development, it's important to know how to create web pages as well as know how to share them once we're finished. Here is how the Internet works: https://www.youtube.com/watch?v=7_LPdttKXPc
 
-3. In the above video, Aaron mentions "servers". When we finish making a website in class, how can we share our website with others without buying a separate computer for a server? We can use Heroku. Here is how Heroku works: watch the first 20 seconds of https://www.youtube.com/watch?v=H2Q4vJrxTwo
+3. In the above video, Aaron mentions "servers". When we finish making a website in session, how can we share our website with others without buying a separate computer for a server? We can use Heroku. Here is how Heroku works: watch the first 20 seconds of https://www.youtube.com/watch?v=H2Q4vJrxTwo
 
 4. Now, the actual writing of code! Find out more about HTML, CSS and JavaScript: https://www.youtube.com/watch?v=gT0Lh1eYk78
 
 ## End of session: Ready to publish this project?
 
-1. Use VSCode or Atom's git features to stage, commit and push changes (we'll go over this in class).  
+1. Use VSCode or Atom's git features to stage, commit and push changes (we'll go over this in session).  
 
 1. Alternatively, if you're feeling adventurous, open up a Terminal and:
     * Navigate to your project folder using `cd`
